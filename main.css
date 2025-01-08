@@ -3,3 +3,11 @@ h1{
     align-items: center;
     color: aquamarine;
 }
+
+
+p{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: blue;
+}
